@@ -5,6 +5,14 @@
       "bundler": "metro"
     },
     "name": "clerk-router",
-    "slug": "clerk-router"
+    "slug": "clerk-router",
+    "extra": {
+      "eas": {
+        "projectId": "196ace70-f82a-4a7a-b094-96b656aab4ea"
+      }
+    },
+    "android": {
+      "package": "com.james_r_perkins.clerkrouter"
+    }
   }
 }
